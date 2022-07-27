@@ -6,4 +6,4 @@ const extra = 'mas não deixe o gato sair'.toUpperCase()
 
 console.log(novaFrase2.replaceAll('mas não deixe o gato sair', extra))
 console.log('A nova frase inclui a palavra verde?', novaFrase2.includes('verde'))
-console.log('A nova frase inclui a palavra laranja?', novaFrase2.includes('a'))
+console.log('A nova frase inclui a palavra laranja?', novaFrase2.includes('laranja'))
